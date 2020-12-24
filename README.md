@@ -1,7 +1,8 @@
-### Hi there, I'm Abdul Wahab Achakzai - 👋
-
-
+### <h1 align="center">Hi 👋, I'm Wahab</h1>. 
 [![Twitter Follow](https://img.shields.io/twitter/follow/wahabachakzai?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=wahabachakzai)
+<h2 align="center">Full Stack Web Developer</h3>- 👋
+
+
 
 ## I'm a Full Stack Web-Developer !!!
 
