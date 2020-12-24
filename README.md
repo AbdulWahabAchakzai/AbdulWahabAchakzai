@@ -1,7 +1,4 @@
-### <h1 align="center">Hi 👋, I'm Ab.Wahab</h1>. 
-<h2 align="center">Full Stack Web Developer</h3>- 👋
-
-
+### <h1 align="center">Hi 👋, I'm Ab.Wahab</h1>.
 
 ## I'm a Full Stack Web-Developer !!!
 
