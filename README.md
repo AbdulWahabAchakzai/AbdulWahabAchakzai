@@ -5,6 +5,8 @@
 - 👯 I’m looking to contribute to amazing projects.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - 🏠 Currently working from Home.
+<br>
+<br>
 
 [comment]: <> (Connect With Me)
 
