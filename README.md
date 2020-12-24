@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Web-Developer !!!
 
-- 👯 I’m looking to collaborate with other amazing projects.
+- 👯 I’m looking to contribute to amazing projects.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - 🏠 Currently working from Home.
 
