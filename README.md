@@ -6,15 +6,13 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 🏠 Currently working from Home
 
-### Spotify Playing 🎧
+[comment]: <> (Connect With Me)
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
-### Connect with me:
-
-[instagram]: https://instagram.com/codeSTACKr
-
-<br />
+<p align="left">
+<h3 align="left">Connect with me:</h3>
+<a href="https://twitter.com/wahabachakzai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Nangialai Stoman" height="30" width="40" /></a>
+<a href="https://instagram.com/wahab_achakzai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Nangialai Stoman" height="30" width="40" /></a>
+</p>
 <br />
 
 ---
