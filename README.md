@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi there... 👋,  I'm Ab.Wahab.</h1>.
 
-## I'm a Full Stack Web-Developer !!!
+## I'm a Full Stack Developer !!!
 
 - 👯 I’m looking to contribute to amazing projects.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
