@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Developer !!!
 
-- 👯 I’m looking to contribute to amazing projects.
+- 👯 Looking to contribute to amazing projects.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - 🏠 Currently working from Home.
 <br>
