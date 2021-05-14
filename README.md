@@ -2,8 +2,14 @@
 
 ## I am a Developer !!!
 
-- 👯 Looking to contribute to amazing projects.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+<table>
+  <tr>
+    <td><p align="center">
+    <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300"/>
+    </p>
+   </td>
+  </tr>
+</table>
 <br>
 
 [comment]: <> (Connect With Me)
