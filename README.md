@@ -4,6 +4,7 @@
 
 <table>
   <tr>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulWahabAchakzai&theme=merko&show_icons=true" alt="AbdulWahabAchakzai"  />
     <td><p align="center">
     <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300"/>
     </p>
@@ -23,10 +24,7 @@
 <br />
 
 
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulWahabAchakzai&theme=merko&show_icons=true" alt="AbdulWahabAchakzai"  />
-</p>
+
 
 
 
