@@ -4,8 +4,10 @@
 
 <table>
   <tr>
+    <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdulWahabAchakzai&theme=merko&show_icons=true" alt="AbdulWahabAchakzai"  />
-    <td><p align="center">
+    <td><p align="right">
+      </p>
     <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300"/>
     </p>
    </td>
