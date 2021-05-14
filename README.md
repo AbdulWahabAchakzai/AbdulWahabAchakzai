@@ -1,7 +1,4 @@
 ### <h1 align="center">Sallam Alaikum... 👋,  I'm Ab.Wahab.</h1>
-
-## I am a Developer !!!
-
 <table>
   <tr>
     <td><p align="left">
