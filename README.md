@@ -8,7 +8,7 @@
       </p>
     <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300"/>
     </p>
-  <td align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWahabAchakzai&theme=blue-green"></td>
+  <td align="right" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWahabAchakzai&theme=blue-green"></td>
    </td>
   </tr>
 </table>
