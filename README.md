@@ -16,42 +16,7 @@ Self tought Full Stack Software Developer, with more than 3 years experiance in 
 </br>
 </br>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/abdulwahabachakzai/)
-## Technologies
-### Languages
 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
- 
-  
-  
-  
-### Libraries and Frameworks
- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
- ![SpringBoot](https://img.shields.io/badge/SpringBoot-%20-green?style=flat&logo=springboot)
- ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-   
-### Infrastructure and DevOps
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%20-blue?style=flat&logo=postgresql)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%20-brightgreen?style=flat&logo=mongodb)
-  
-### Design
-  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-  
-### Enviroment, IDEs and Tools
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-  ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-  ![Windows](https://img.shields.io/badge/-Windows%2011-333333?style=flat&logo=windows)
-  ![Linux](https://img.shields.io/badge/linux-%20-red?style=flat&logo=linux)
-  ![Chrome DevTools](https://img.shields.io/badge/ChromeDevTools-%20-brightgreen?style=flat&logo=googlechrome)
 </br>
 
 <p align="left">
