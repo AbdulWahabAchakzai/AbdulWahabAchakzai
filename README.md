@@ -26,7 +26,7 @@ Self tought Full Stack Software Developer, with more than 3 years experiance in 
   
   
 ### Libraries and Frameworks
- ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+ ![Angular](https://img.shields.io/badge/angular-%20-green?style=flat&logo=angular)
  ![SpringBoot](https://img.shields.io/badge/SpringBoot-%20-green?style=flat&logo=springboot)
  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
