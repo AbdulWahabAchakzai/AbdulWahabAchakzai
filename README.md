@@ -14,6 +14,7 @@
 # About Me
 Self tought Full Stack Software Developer, with more than 3 years experiance in Backend and Frontend Technologies
 </br>
+</br>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/abdulwahabachakzai/)
 ## Technologies
 ### Languages
@@ -26,9 +27,9 @@ Self tought Full Stack Software Developer, with more than 3 years experiance in 
   
   
 ### Libraries and Frameworks
- ![Angular](https://img.shields.io/badge/angular-%20-green?style=flat&logo=angular)
+ ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
  ![SpringBoot](https://img.shields.io/badge/SpringBoot-%20-green?style=flat&logo=springboot)
- ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+ ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
    
 ### Infrastructure and DevOps
@@ -40,7 +41,9 @@ Self tought Full Stack Software Developer, with more than 3 years experiance in 
   
 ### Design
   ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
   
 ### Enviroment, IDEs and Tools
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
