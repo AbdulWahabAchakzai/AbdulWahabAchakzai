@@ -17,8 +17,11 @@ Self tought Full Stack Software Developer, with more than 3 years experiance in 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/abdulwahabachakzai/)
 ## Technologies
 ### Languages
-  ![Java](https://img.shields.io/badge/Java-%20-red?style=flat&logo=java)
+
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-%20-red?style=flat&logo=java)
+ 
   
   
   
@@ -26,6 +29,7 @@ Self tought Full Stack Software Developer, with more than 3 years experiance in 
  ![Angular](https://img.shields.io/badge/Angular-%20-critical?style=flat&logo=angular)
  ![SpringBoot](https://img.shields.io/badge/SpringBoot-%20-green?style=flat&logo=springboot)
  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+ ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
    
 ### Infrastructure and DevOps
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -33,9 +37,15 @@ Self tought Full Stack Software Developer, with more than 3 years experiance in 
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%20-blue?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%20-brightgreen?style=flat&logo=mongodb)
+  
+### Design
+  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  
 ### Enviroment, IDEs and Tools
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
   ![Windows](https://img.shields.io/badge/-Windows%2011-333333?style=flat&logo=windows)
   ![Linux](https://img.shields.io/badge/linux-%20-red?style=flat&logo=linux)
   ![Chrome DevTools](https://img.shields.io/badge/ChromeDevTools-%20-brightgreen?style=flat&logo=googlechrome)
