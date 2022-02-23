@@ -18,15 +18,15 @@ Self tought Full Stack Software Developer, with more than 3 years experiance in 
 ## Technologies
 ### Languages
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-%20-red?style=flat&logo=java)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
  
   
   
   
 ### Libraries and Frameworks
- ![Angular](https://img.shields.io/badge/Angular-%20-critical?style=flat&logo=angular)
+ ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
  ![SpringBoot](https://img.shields.io/badge/SpringBoot-%20-green?style=flat&logo=springboot)
  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
