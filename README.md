@@ -13,6 +13,8 @@
 
 # About Me
 Self tought Full Stack Software Developer, with more than 3 years experiance in Backend and Frontend Technologies
+</br>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/abdulwahabachakzai/)
 
 </br>
 
@@ -21,8 +23,7 @@ Self tought Full Stack Software Developer, with more than 3 years experiance in 
 <a href="https://twitter.com/wahabachakzai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Abdul Wahab Achakzai" height="30" width="40" /></a>
 <a href="https://instagram.com/wahab_achakzai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Abdul Wahab Achakzai" height="30" width="40" /></a>
 <a href="https://facebook.com/abdulwahabachakzai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Abdul Wahab Achakzai" height="30" width="40" /></a>
-<a href="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/abdulwahabachakzai/"></a>
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/abdulwahabachakzai/)
+
 </p>
 <br />
 
