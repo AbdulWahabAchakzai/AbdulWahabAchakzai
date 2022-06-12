@@ -1,4 +1,4 @@
-### <h1 align="center">Hi, I'm Wahab <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1> 
+### <h1 align="center">Hi 👋, I'm Wahab🏻</h1> 
 <table>
   <tr>
     <td><p align="left">
