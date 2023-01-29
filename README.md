@@ -2,7 +2,8 @@
 <table>
   <tr>
     <td><p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulWahabAchakzai&theme=merko&show_icons=true" alt="AbdulWahabAchakzai"  />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=AbdulWahabAchakzai&theme=merko&show_icons=true" alt="AbdulWahabAchakzai"  /> -->
+  <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" />
       </p></td>
     <td><p align="right">
       </p>
