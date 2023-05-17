@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td><p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulWahabAchakzai&theme=merko&show_icons=true" alt="AbdulWahabAchakzai"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbdulWahabAchakzai&theme=merko&show_icons=true" alt="AbdulWahabAchakzai"  />
       </p></td>
     <td><p align="right">
       </p>
