@@ -1,7 +1,7 @@
 ## Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I am Ab. Wahab a full stack developer.
 
 
-- Experienced Full Stack Developer with experience in Java, JavaScript, TypeScript, and a versatile tech stack including Angular, Node.js, Express.js, Jest, React, Redux, Next.js, Spring Boot, JUnit5, NestJS, PostgreSQL and MongoDB.
+- Experienced Full Stack Developer in Java, JavaScript, TypeScript, and a versatile tech stack including Angular, Node.js, Express.js, Jest, React, Redux, Next.js, Spring Boot, JUnit5, NestJS, PostgreSQL and MongoDB.
 -  Passionate about crafting robust solutions and pushing boundaries in the world of web development.
 -  Let's code the future together!
 <br />
