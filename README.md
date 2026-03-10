@@ -39,7 +39,7 @@ Grafana • Prometheus
 
 <img src="https://github-readme-stats.vercel.app/api?username=abdulwahabachakzai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwahabachakzai&theme=tokyonight&hide_border=true"/>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwahabachakzai&theme=tokyonight&hide_border=true"/> -->
 
 </p>
 
@@ -48,15 +48,12 @@ Grafana • Prometheus
 # Connect With Me
 
 <p align="left">
-
 <a href="https://linkedin.com/in/abdulwahabachakzai">
 <img src="https://img.shields.io/badge/LinkedIn-Abdul%20Wahab%20Achakzai-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-
 <a href="mailto:a.wahabachakzai@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-a.wahabachakzai%40gmail.com-red?style=for-the-badge&logo=gmail"/>
 </a>
-
 </p>
 
 ---
