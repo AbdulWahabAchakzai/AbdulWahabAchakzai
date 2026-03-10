@@ -1,23 +1,96 @@
-## Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I am Ab. Wahab a full stack developer.
+# Abdul Wahab Achakzai
 
+Software Engineer | Full-Stack Developer | Microservices Architecture
 
-- Experienced Full Stack Engineer in Java, JavaScript, TypeScript, and a versatile tech stack including Angular, Node.js, Express.js, JestJS, React, Redux, Next.js, Spring Boot, JUnit5, NestJS, PostgreSQL and MongoDB.
--  Passionate about crafting robust solutions and pushing boundaries in the world of web development.
--  Let's code the future together!
-<br />
+I build **scalable backend systems and modern web applications** with strong experience in **microservices, distributed systems, and real-time event processing**.
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<p align="left">
-<a href="https://linkedin.com/abdulwahabachakzai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Abdul Wahab Achakzai" height="30" width="40" /></a>
-<a href="https://twitter.com/wahabachakzai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Abdul Wahab Achakzai" height="30" width="40" /></a>
-<a href="https://instagram.com/wahab_achakzai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Abdul Wahab Achakzai" height="30" width="40" /></a>
+Currently working on **telecom monitoring and automated ticketing systems** that process thousands of network alarms using **Spring Boot, Angular, Redis, and event-driven architecture**.
+
+---
+
+## Tech Stack
+
+### Backend
+Java • Spring Boot • Node.js • NestJS • ExpressJS  
+REST APIs • JWT Security • OAuth2 • Microservices Architecture  
+
+### Frontend
+Angular • Next.js • React • Redux • PrimeNG • Bootstrap  
+
+### Databases & Messaging
+PostgreSQL • MySQL • MongoDB • Redis  
+ActiveMQ • Event-Driven Systems  
+
+### DevOps & Infrastructure
+Docker • Kubernetes • Jenkins • CI/CD  
+Linux Servers • Git • GitHub • GitLab  
+
+### Testing & Observability
+JUnit5 • Jest • Mockito • Karma/Jasmine  
+Grafana • Prometheus • ELK Stack  
+
+---
+
+# GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abdulwahabachakzai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwahabachakzai&theme=tokyonight&hide_border=true" height="170"/>
 
 </p>
-<br />
 
+---
 
+# Top Languages
 
+<p align="center">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwahabachakzai&layout=compact&theme=tokyonight&hide_border=true"/>
 
+</p>
 
+---
 
+## Current Work
+
+Software Engineer at **IEngineering Group**
+
+Working on telecom infrastructure systems including:
+
+- SNMP Trap Listener engines (Huawei / Ericsson)
+- Automated NOC ticketing platforms
+- Real-time monitoring dashboards
+- High-volume alarm processing pipelines
+- Microservices-based backend systems
+
+---
+
+## Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/abdulwahabachakzai">
+<img src="https://img.shields.io/badge/LinkedIn-Abdul%20Wahab%20Achakzai-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:a.wahabachakzai@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-a.wahabachakzai%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/abdulwahabachakzai">
+<img src="https://img.shields.io/badge/GitHub-abdulwahabachakzai-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+## Languages
+
+English • Pashto • Dari • Hindi • German
+
+---
+
+> “Design systems that scale, automate what slows people down, and build software that lasts.”
