@@ -1,6 +1,6 @@
 # Abdul Wahab Achakzai
 
-Software Engineer | Full-Stack Developer | Microservices Architecture
+Full-Stack Developer | Microservices Architecture
 
 I build **scalable backend systems and modern web applications** with strong experience in **microservices, distributed systems, and real-time event processing**.
 
