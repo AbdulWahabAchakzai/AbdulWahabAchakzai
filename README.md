@@ -64,10 +64,4 @@ English • Pashto • Dari • Hindi • German
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=abdulwahabachakzai&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
----
-
 > *“Build systems that scale, automate complexity, and deliver reliable software that lasts.”*
