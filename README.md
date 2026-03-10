@@ -39,7 +39,7 @@ Grafana • Prometheus
 
 <img src="https://github-readme-stats.vercel.app/api?username=abdulwahabachakzai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwahabachakzai&theme=tokyonight&hide_border=true"/> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwahabachakzai&theme=tokyonight&hide_border=true"/> 
 
 </p>
 
