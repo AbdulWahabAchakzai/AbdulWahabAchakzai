@@ -1,6 +1,6 @@
 # Abdul Wahab Achakzai
 
-Software Engineer | Full-Stack Developer | Microservices Architect
+Software Developer | Monolith & Microservices Architect
 
 I am a passionate **Software Engineer with strong expertise in distributed systems, microservices architecture, and real-time event processing platforms**.  
 I specialize in building **high-performance backend services and modern frontend applications** that power enterprise systems.
@@ -9,22 +9,10 @@ My work focuses on **scalable architectures, event-driven systems, telecom monit
 
 ---
 
-## Engineering Highlights
-
-• Designed and implemented **high-throughput SNMP trap listener systems** processing thousands of network alarms per minute  
-• Built **automated telecom ticketing platforms** reducing manual operations by **70%+**  
-• Developed **10+ production microservices** using Spring Boot  
-• Optimized system performance achieving **3x throughput improvement**  
-• Reduced API latency by **45% through caching and async processing**  
-• Built **real-time monitoring dashboards** for network operations centers  
-• Implemented **CI/CD pipelines and containerized deployments** using Docker and Jenkins  
-
----
-
 # Tech Stack
 
 ### Backend Development
-Java • Spring Boot • NodeJS • NestJS • ExpressJS  
+• Java • JavaScript • TypeScript • Spring Boot • NodeJS • NestJS • ExpressJS  
 REST APIs • JWT Authentication • OAuth2 • Microservices
 
 ### Frontend Development
@@ -37,11 +25,11 @@ PostgreSQL • MySQL • MongoDB • Redis
 ActiveMQ • Event-Driven Architecture • Async Processing
 
 ### DevOps & Infrastructure
-Docker • Kubernetes • Jenkins • Linux Servers • CI/CD
+Docker • Kubernetes • Linux Servers • CI/CD
 
 ### Testing & Monitoring
 JUnit5 • Jest • Mockito • Karma/Jasmine  
-Grafana • Prometheus • ELK Stack
+Grafana • Prometheus
 
 ---
 
@@ -57,26 +45,6 @@ Grafana • Prometheus • ELK Stack
 
 ---
 
-# Top Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwahabachakzai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</p>
-
----
-
-# GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abdulwahabachakzai&theme=onedark&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
 # Connect With Me
 
 <p align="left">
@@ -87,10 +55,6 @@ Grafana • Prometheus • ELK Stack
 
 <a href="mailto:a.wahabachakzai@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-a.wahabachakzai%40gmail.com-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/abdulwahabachakzai">
-<img src="https://img.shields.io/badge/GitHub-abdulwahabachakzai-black?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
