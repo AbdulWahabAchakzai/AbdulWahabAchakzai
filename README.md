@@ -2,9 +2,9 @@
 
 Full-Stack Developer | Monolith & Microservices Architecture
 
-I design and build **scalable backend systems and modern web applications** with a strong focus on **clean architecture, performance optimization, and production-ready delivery**.
+I design and build calable backend systems and modern web applications with a strong focus on clean architecture, performance optimization, and production-ready delivery.
 
-My experience spans **microservices platforms, telecom monitoring systems, automated ticketing engines, enterprise government systems, and full-stack web applications** built using modern cloud-native technologies.
+My experience spans  microservices platforms, telecom monitoring systems, automated ticketing engines, enterprise government systems, and full-stack web applications built using modern cloud-native technologies.
 
 ---
 <p align="center">
