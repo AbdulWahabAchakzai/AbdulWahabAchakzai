@@ -1,6 +1,6 @@
 # Abdul Wahab Achakzai
 
-Full-Stack Developer | Monolith & Microservices Architecture
+Software Engineer | Monolith & Microservices Architecture
 
 I design and build calable backend systems and modern web applications with a strong focus on clean architecture, performance optimization, and production-ready delivery.
 
